@@ -10,9 +10,9 @@ The second frame is called the Button Frame and it is where all the buttons are 
 
 TO-DO:
 
-[]Create Display Frame
-[]Create Button Frame
-[]Create basic functions for each
-[]Create binding for faster input
-[]Design more funcitonality
+[X]Create Display Frame
+[X]Create Button Frame
+[X]Create basic functions for each
+[X]Create binding for faster input
+[X]Design more functionality
 
